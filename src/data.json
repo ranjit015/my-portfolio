@@ -1,0 +1,71 @@
+{
+    "skillData": [
+        {
+            "id": "skill_1",
+            "name": "html",
+            "imgPath": "https://www.dropbox.com/scl/fi/59ou1rg94y9xd29h2x8wx/icons8-html-48.png?rlkey=zx26bo6j4giuiews6oo2lp9js&st=ca14pd1t&raw=1"
+        },
+        {
+            "id": "skill_2",
+            "name": "css",
+            "imgPath": "https://www.dropbox.com/scl/fi/qcm2wmguol3im3vhyccs4/icons8-css-48.png?rlkey=hy0dyzbo5q2rna2n29r637q3o&st=j3k0vwz9&raw=1"
+        },
+        {
+            "id": "skill_3",
+            "name": "javascript",
+            "imgPath": "https://www.dropbox.com/scl/fi/6suk3fdj1tijw13rjj0ih/icons8-javascript-48.png?rlkey=6ibk94s8xqob72vaz71kzmrmt&st=jmhmc2jm&raw=1"
+        },
+        {
+            "id": "skill_4",
+            "name": "tailwind CSS",
+            "imgPath": "https://www.dropbox.com/scl/fi/58qpnyrilxvfw4msw1x8a/icons8-tailwind-css-48.png?rlkey=sk1foparkrni1xjtr247l42vl&st=y9o6e6vv&raw=1"
+        },
+        {
+            "id": "skill_5",
+            "name": "react",
+            "imgPath": "https://www.dropbox.com/scl/fi/wmq8xqsrpifdbasqb447p/icons8-react-js-40.png?rlkey=sdplsyx3o0aot8j2gp1o50bkb&st=hq00lsaa&raw=1"
+        }
+    ],
+    "toolsData": [
+        {
+            "id": "toolsSkill_1",
+            "name": "postman",
+            "imgPath": "https://www.dropbox.com/scl/fi/s3p7xo55vwgqof82zp5jz/icons8-postman-api-48.png?rlkey=7522zkvfjba6skrrmng55m1sc&st=5lwwpx9x&raw=1"
+        },
+        {
+            "id": "toolsSkill_2",
+            "name": "vite",
+            "imgPath": "https://www.dropbox.com/scl/fi/iuq4ypixnehl4vzex6paw/pngwing.com-1.png?rlkey=q6227caq8zae7728mnjoedhqt&st=rtshvg5n&raw=1"
+        },
+        {
+            "id": "toolsSkill_3",
+            "name": "docker",
+            "imgPath": "https://www.dropbox.com/scl/fi/ccu61hqagg8ivrpjm4m35/icons8-docker-48.png?rlkey=2du0u3vbw6gbd1t8etgqon1up&st=5k2e5yix&raw=1"
+        },
+        {
+            "id": "toolsSkill_4",
+            "name": "cloudinary",
+            "imgPath": "https://www.dropbox.com/scl/fi/66d3zbikuyk1gk22x3c3f/ff19f5f57213dced9e6b0e3bc5181b6d.png?rlkey=ol93gck6pb3d8h4lrmm91f4yb&st=qxoce3r6&raw=1"
+        },
+        {
+            "id": "toolsSkill_5",
+            "name": "dropbox",
+            "imgPath": "https://www.dropbox.com/scl/fi/45572njvkqsag84necb20/icons8-dropbox-48.png?rlkey=4xzrorvqykrxdzubqsvjbvhqb&st=nrq193p4&raw=1"
+        },
+        {
+            "id": "toolsSkill_6",
+            "name": "android studio",
+            "imgPath": "https://www.dropbox.com/scl/fi/13hda2svsanagwmcx6r64/icons8-android-studio-48.png?rlkey=xgp0uodh8npufkce2x3rllakv&st=8qxz74c4&raw=1"
+        },
+        {
+            "id": "toolsSkill_7",
+            "name": "VS code",
+            "imgPath": "https://www.dropbox.com/scl/fi/e3w52bvppub8k2ww6cxjk/icons8-vs-code-48.png?rlkey=q1owkm60qpmk8rowggv9t5t1h&st=pnxh67rr&raw=1"
+        },
+        {
+            "id": "toolsSkill_8",
+            "name": "git & github",
+            "imgPath": "https://www.dropbox.com/scl/fi/s07kwn3q9fskv85uvkf63/icons8-github-50-1.png?rlkey=0ixxbhfe1xqr2jaal45vs2swn&st=a3y1egn0&raw=1"
+        }
+    ]
+}
