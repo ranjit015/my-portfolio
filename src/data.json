@@ -13,19 +13,20 @@
         {
             "id": "skill_3",
             "name": "javascript",
-            "imgPath": "https://www.dropbox.com/scl/fi/6suk3fdj1tijw13rjj0ih/icons8-javascript-48.png?rlkey=6ibk94s8xqob72vaz71kzmrmt&st=jmhmc2jm&raw=1"
+            "imgPath": "https://www.dropbox.com/scl/fi/3cxnnoie2wsyi3hcq26et/icons8-js-48.png?rlkey=7u5g9p1fqa36y2agpbwy2k7g0&st=2709bswm&raw=1"
         },
         {
             "id": "skill_4",
             "name": "tailwind CSS",
-            "imgPath": "https://www.dropbox.com/scl/fi/58qpnyrilxvfw4msw1x8a/icons8-tailwind-css-48.png?rlkey=sk1foparkrni1xjtr247l42vl&st=y9o6e6vv&raw=1"
+            "imgPath": "https://www.dropbox.com/scl/fi/qypvg997j7vigxvfh3csc/icons8-tailwind-css-48.png?rlkey=h3evsm8gyj2lrjbw8gly1ldqo&st=o9xxk9zt&raw=1"
         },
         {
             "id": "skill_5",
             "name": "react",
-            "imgPath": "https://www.dropbox.com/scl/fi/wmq8xqsrpifdbasqb447p/icons8-react-js-40.png?rlkey=sdplsyx3o0aot8j2gp1o50bkb&st=hq00lsaa&raw=1"
+            "imgPath": "https://www.dropbox.com/scl/fi/b8rv7lxxldc2n3zqfzlq8/icons8-react-native-48.png?rlkey=1a8khvstz4qjqvrjfqj466l2k&st=w482nfkm&raw=1"
         }
     ],
+
     "toolsData": [
         {
             "id": "toolsSkill_1",
