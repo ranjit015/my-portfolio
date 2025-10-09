@@ -1,6 +1,5 @@
 import React, { useRef } from "react";
 import { Link } from "react-router-dom";
-import profileImage1 from "../assets/IMG_2936.PNG";
 import profileImage2 from "../assets/IMG_1798.jpg";
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
@@ -14,7 +13,7 @@ const DetailsPart = () => {
   };
 
   const handleContactMe = () => {
-    const email = "ranjitsamal004@gmail.com"; // Replace with your email
+    const email = "ranjitsamal004@gmail.com";
     window.location.href = `mailto:${email}`;
   };
 
@@ -41,9 +40,9 @@ const DetailsPart = () => {
 
         <h2
           id="personalDetails"
-          className="text-base font-semibold text-lightSecondaryText font-raleway"
+          className="text-base font-medium text-lightSecondaryText font-raleway"
         >
-          Cyber Security & Data Analyst
+          Data Analyst & ML Explorer
         </h2>
       </div>
 

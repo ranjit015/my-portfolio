@@ -18,45 +18,45 @@
         {
             "id": "skill_4",
             "name": "tailwind CSS",
-            "imgPath": "https://www.dropbox.com/scl/fi/qypvg997j7vigxvfh3csc/icons8-tailwind-css-48.png?rlkey=h3evsm8gyj2lrjbw8gly1ldqo&st=o9xxk9zt&raw=1"
+            "imgPath": "https://www.dropbox.com/scl/fi/qypvg997j7vigxvfh3csc/icons8-tailwind-css-48.png?rlkey=h3evsm8gyj2lrjbw8gly1ldqo&st=xfvd00ib&raw=1"
         },
         {
             "id": "skill_5",
             "name": "react",
             "imgPath": "https://www.dropbox.com/scl/fi/b8rv7lxxldc2n3zqfzlq8/icons8-react-native-48.png?rlkey=1a8khvstz4qjqvrjfqj466l2k&st=w482nfkm&raw=1"
+        },
+        {
+            "id": "skill_6",
+            "name": "python",
+            "imgPath": "https://www.dropbox.com/scl/fi/s5ogdsfd40jxkl0644t1i/icons8-python-48.png?rlkey=8agc9fumx7hnpq6xrqxqakox1&st=20d1g094&raw=1"
+        },
+        {
+            "id": "skill_7",
+            "name": "mysql",
+            "imgPath": "https://www.dropbox.com/scl/fi/1uil9s4oz7i4yfca6ompv/icons8-mysql-logo-48.png?rlkey=u96svluzzbkcnvur75vhvkuyi&st=tzpmfvxy&raw=1"
+        },
+        {
+            "id": "skill_8",
+            "name": "excel",
+            "imgPath": "https://www.dropbox.com/scl/fi/d5nkvbk158zi40bv3bp0b/icons8-excel-48.png?rlkey=0kkcq5akf6nz2egh0ool1wyfm&st=adjls86m&raw=1"
+        },
+        {
+            "id": "skill_8",
+            "name": "Google Sheets",
+            "imgPath": "https://www.dropbox.com/scl/fi/pkgwv18vdmwq98d8s34f1/icons8-google-sheets-48.png?rlkey=moaz60s8t6quefi94d2zizz38&st=vqwdr9et&raw=1"
+        },
+        {
+            "id": "skill_9",
+            "name": "power bi",
+            "imgPath": "https://www.dropbox.com/scl/fi/smj7lis5npms7lojtlkik/icons8-power-bi-2021-48.png?rlkey=ml09dx4i8c1ndzlgj97znby9o&st=ehkdocp5&raw=1"
         }
     ],
 
     "toolsData": [
         {
-            "id": "toolsSkill_1",
-            "name": "postman",
-            "imgPath": "https://www.dropbox.com/scl/fi/s3p7xo55vwgqof82zp5jz/icons8-postman-api-48.png?rlkey=7522zkvfjba6skrrmng55m1sc&st=5lwwpx9x&raw=1"
-        },
-        {
-            "id": "toolsSkill_2",
-            "name": "vite",
-            "imgPath": "https://www.dropbox.com/scl/fi/iuq4ypixnehl4vzex6paw/pngwing.com-1.png?rlkey=q6227caq8zae7728mnjoedhqt&st=rtshvg5n&raw=1"
-        },
-        {
-            "id": "toolsSkill_3",
-            "name": "docker",
-            "imgPath": "https://www.dropbox.com/scl/fi/ccu61hqagg8ivrpjm4m35/icons8-docker-48.png?rlkey=2du0u3vbw6gbd1t8etgqon1up&st=5k2e5yix&raw=1"
-        },
-        {
-            "id": "toolsSkill_4",
-            "name": "cloudinary",
-            "imgPath": "https://www.dropbox.com/scl/fi/66d3zbikuyk1gk22x3c3f/ff19f5f57213dced9e6b0e3bc5181b6d.png?rlkey=ol93gck6pb3d8h4lrmm91f4yb&st=qxoce3r6&raw=1"
-        },
-        {
             "id": "toolsSkill_5",
             "name": "dropbox",
             "imgPath": "https://www.dropbox.com/scl/fi/45572njvkqsag84necb20/icons8-dropbox-48.png?rlkey=4xzrorvqykrxdzubqsvjbvhqb&st=nrq193p4&raw=1"
-        },
-        {
-            "id": "toolsSkill_6",
-            "name": "android studio",
-            "imgPath": "https://www.dropbox.com/scl/fi/13hda2svsanagwmcx6r64/icons8-android-studio-48.png?rlkey=xgp0uodh8npufkce2x3rllakv&st=8qxz74c4&raw=1"
         },
         {
             "id": "toolsSkill_7",

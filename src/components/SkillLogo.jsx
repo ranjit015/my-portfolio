@@ -6,7 +6,7 @@ const SkillLogo = ({ skillData, showCaseName }) => {
   return (
     <div
       ref={skillSection}
-      className="font-montserrat bg-darkBtnBg rounded-xl p-6 shadow-md hover:shadow-lg hover:scale-105 transition-all duration-300"
+      className="font-montserrat bg-transparent rounded-xl p-6 shadow-md hover:shadow-lg hover:scale-105 transition-all duration-300"
     >
       <h1
         id="skillHead"
@@ -23,7 +23,7 @@ const SkillLogo = ({ skillData, showCaseName }) => {
           <div
             id="skillLogo"
             key={item.id}
-            className="flex flex-col items-center group"
+            className="flex flex-col items-center group min-w-[115px]"
           >
             <div className="w-12 h-12 md:w-14 md:h-14 flex justify-center items-center bg-white/10 dark:bg-white/5 rounded-xl p-2 shadow-md group-hover:shadow-lg group-hover:scale-110 transition-all duration-300">
               <img
