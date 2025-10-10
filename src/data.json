@@ -67,6 +67,11 @@
             "id": "toolsSkill_8",
             "name": "git & github",
             "imgPath": "https://www.dropbox.com/scl/fi/s07kwn3q9fskv85uvkf63/icons8-github-50-1.png?rlkey=0ixxbhfe1xqr2jaal45vs2swn&st=a3y1egn0&raw=1"
+        },
+        {
+            "id": "toolsSkill_8",
+            "name": "supabase",
+            "imgPath": "https://www.dropbox.com/scl/fi/tjtsgtd3tn2irua0j945q/icons8-supabase-48.png?rlkey=ifsb4ys10ome050dzihu3oe3m&st=69af15go&raw=1"
         }
     ]
 }

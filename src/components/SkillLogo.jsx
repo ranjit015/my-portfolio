@@ -1,8 +1,28 @@
 import React, { useRef } from "react";
+import { useGSAP } from "@gsap/react";
+import gsap from "gsap";
 
 const SkillLogo = ({ skillData, showCaseName }) => {
   const skillSection = useRef();
-  
+
+  useGSAP(
+    () => {
+      let tl = gsap.timeline();
+      tl.from("#skillHead", {
+        scale: 0,
+        duration: 0.5,
+        stagger: 0.15,
+        opacity: 0,
+      }).from("#skillLogo", {
+        y: -50,
+        duration: 0.5,
+        stagger: 0.15,
+        opacity: 0,
+      });
+    },
+    { scope: skillSection }
+  );
+
   return (
     <div
       ref={skillSection}
